@@ -19,7 +19,6 @@ const init = () => {
             // if (data = "N") {
             //     console.log("not found")
             // }
-            console.log(data);
             inputForm.reset();
          })
     
